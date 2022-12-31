@@ -1,0 +1,308 @@
+@media (min-width: 370px){
+    .container__small {
+        padding: 0px 0px 0px 25px;
+    }
+
+    .main__paragraph {
+        padding: 28px 0px 0px 25px;
+    }
+
+    .main__local {
+        margin-left: 11px;
+    }
+
+    .main__button {
+        margin: 76px 0px 0px -306px;
+    }
+}
+
+
+
+
+
+@media (min-width: 400px) {
+    .main__tittle-1 {
+        padding: 32px 0px 44px 35px;
+    }
+
+    .main__small-1 {
+        margin: 0px 0px 0px 3px;
+    }
+
+    .main__small-2 {
+        margin: 0px 0px 0px 17px;
+    }
+
+    .main__paragraph {
+        padding: 28px 0px 0px 28px;
+    }
+
+    .container__main--button {
+        padding: 32px 0px 32px 26px;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width: 700px) {
+    .container__aside--list {
+        justify-content: space-between;
+    }
+
+    .main__tittle-1 {
+        padding-left: 91px;
+    }
+
+    .main__li {
+        height: 400px;
+        padding-left: 50px;
+    }
+
+    .container__main--button {
+        padding: 15px 0px 32px 12px;
+    }
+
+    .main__button {
+        margin: 60px 0px 0px -300px;
+    }
+
+
+    .header__tittle-1 {
+        padding: 116px 0px 0px 70px;
+    }
+
+
+    .header__tittle-2 {
+        padding: 40px 0px 0px 70px;
+    }
+
+    .header__paragraph-1 {
+        padding: 40px 0px 0px 70px;
+    }
+
+    .header__paragraph-2 {
+        padding: 40px 0px 0px 70px;
+    }
+
+    .header__button {
+        margin: 40px 0px 0px 70px;
+    }
+
+    .aside__ul {
+        height: 126px;
+    }
+}
+
+
+
+
+
+@media (min-width: 900px) {
+    body {
+        width: 100vw;
+    }
+
+    .container__main {
+        max-width: 100vw;
+        display: flex;
+    }
+
+    .container__header {
+        margin-left: 50px;
+    }
+
+    .header__paragraph-1 {
+        max-width: 70vw;
+
+    }
+
+    .main__tittle-1 {
+        padding-left: 62px;
+    }
+
+    .main__tittle-2 {
+        margin-left: -44px;
+
+        padding: 32px 0px 20px 26px;
+    }
+
+    .main__li {
+        height: 330px;
+        max-width: 60vw;
+        margin-left: 30px;
+    }
+
+    .main__small-1 {
+        margin: 0px 0px 0px -25px;
+    }
+
+    .main__small-2 {
+        margin-left: 34px;
+    }
+
+    .main__paragraph {
+        max-width: 55vw;
+
+        margin-left: -49px;
+    }
+
+    .main__local {
+        width: 100px;
+    }
+
+
+
+    .container__main--button {
+        margin-left: -34px;
+    }
+
+    .main__button {
+        width: 140px;
+        margin-left: 121px;
+        margin-top: -3px;
+    }
+
+    .container__aside {
+        position: sticky;
+        top: 50px;
+        max-width: 30vw;
+        margin-right: 55px;
+    }
+    
+    .aside__vazia {
+        max-width: 30vw;
+        height: 260px
+    }
+    
+    .aside__tittle-vazio {
+        max-width: 300px;
+    }
+    
+    .aside__paragraph-1 {
+        max-width: 17vw;
+    }
+    
+    .aside__ul {
+        max-width: 30vw;
+        gap: 20px;
+        height: 140px;
+    }
+    
+    .aside__li {
+        max-width: 30vw;
+        height: 23vh
+    }
+
+    .container__aside--local {
+        padding: 15px 0px 30px 32px;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width: 1400px) {
+
+    .header__tittle-2 {
+        padding: 90px 0px 0px 70px;
+    }
+
+    .header__paragraph-1 {
+        padding: 80px 0px 0px 70px;
+    }
+
+    .header__paragraph-2 {
+        padding: 60px 0px 0px 70px;
+    }
+
+
+    .header__button {
+        margin: 90px 0px 0px 70px;
+    }
+
+
+    .main__tittle-1 {
+        padding-left: 110px;
+    }
+
+    .main__ul {
+        max-width: 62vw;
+    }
+
+    .main__li {
+        margin-left: 100px;
+    }
+
+    .container__main--button {
+        gap: 140px;
+    }
+
+    .main__button {
+        margin-left: 9px;
+    }
+
+    .container__aside--list {
+        justify-content: space-around;
+        margin-left: 5px;
+
+    }
+
+    .main__paragraph {
+        max-width: 50vw;
+
+    }
+
+    .aside__tittle-1{
+        max-width: 30vw;
+    }
+
+    .container__aside {
+        width: 500px;
+    }
+
+    .aside__ul {
+        width: 500px;
+    }
+
+    .aside__li {
+        width: 500px;
+        max-width: 30vw;
+    }
+
+    .aside__vazia {
+        max-width: 30vw;
+    }
+}
+
+
+
+@media (min-width: 2000px) {
+    .main__tittle-1 {
+        padding-left: 122px;
+    }
+
+    .container__main--button {
+        gap: 30px;
+    }
+
+    .main__button {
+        margin-left: 812px;
+    }
+
+    .main__li {
+        height: 272px;
+    }
+
+    .aside__vazia {
+        max-width: 20vw;
+    }
+
+    
+}
